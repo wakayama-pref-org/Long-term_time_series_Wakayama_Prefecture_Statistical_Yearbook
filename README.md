@@ -1,4 +1,4 @@
-# Long-term_time_series_Wakayama_Prefecture_Statistical_Yearbook
+# long-term_time_series_wakayama_prefecture_statistical_yearbook
 【和歌山県　和歌山県統計年鑑 です。】
 ◆和歌山県統計年鑑は
 和歌山県の土地、人口、経済、社会、文化など各分野にわたる統計資料を体系的に収録し、その現状と推移を明らかにしたものです。
